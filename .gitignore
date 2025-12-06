@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Sessions and exports (user data)
+sessions/*.json
+exports/*.ics
+exports/*.txt
+
+# Temporary files
+*.tmp
+*.temp
+.streamlit/
+
+# Logs
+*.log
+
+Usage_demo.mov
